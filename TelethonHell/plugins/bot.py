@@ -151,7 +151,7 @@ async def _(event):
             return await parse_error(event, e)
     
     else:
-        await eod(event, f"**SYNTAX EXAMPLE**\n\n~ `{hl}dm @ForGo10God Hey Hell!` \n~ `{hl}dm @ForGo10God <reply to a msg>`")
+        await eod(event, f"**SYNTAX EXAMPLE**\n\n~ `{hl}dm @II_BAD_BBY_II Hey Hell!` \n~ `{hl}dm @II_BAD_BBY_II <reply to a msg>`")
 
 
 @hell_cmd(pattern="chain$")
